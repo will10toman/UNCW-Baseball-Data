@@ -28,7 +28,6 @@ This repository contains the technical report and code used to analyze the **UNC
 ```
 ├── data/               # Raw & processed Trackman dataset
 ├── notebooks/          # Jupyter notebooks with analysis & visualizations
-├── src/                # Python scripts for data processing & feature engineering
 ├── figures/            # Generated visualizations
 ├── report/             # Full technical report & supplementary materials
 ├── README.md           # Project documentation (this file)
