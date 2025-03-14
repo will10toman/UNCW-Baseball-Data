@@ -34,7 +34,7 @@ This repository contains the technical report and code used to analyze the **UNC
 ├── README.md           # Project documentation (this file)
 ```
 
-## How to Use
+## How to Use (If you have a similar Dataset)
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/uncw-baseball-analysis.git
